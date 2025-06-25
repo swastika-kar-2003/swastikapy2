@@ -1,0 +1,12 @@
+site_name: 'swastikapy2'
+site_description: 'Main documentation for the python-app'
+repo_url: https://github.com/swas-kar/swastikapy2
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+# For sidebar navigation on https://backstage.io/, see `microsite/sidebars.js`
+nav:
+  - Overview:
+      - Getting Started: 'docs/index.md'
